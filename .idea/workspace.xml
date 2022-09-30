@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e70512b-0812-45e9-b751-05e9d36214d9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/java codes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArmstrongNumUsingFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraylistOneDmensional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ArraysPassinginfunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultidimensionalArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MultidimensionalArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrimenumberUsingFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Q3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SwappingArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseOfForeachloop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UseofArraywithString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/function2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/newbubblesort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm26.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm27.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm28.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm29.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pm9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/practice1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DtVpjHsAdN6dBl0OFuyGbQzGky" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "E:/java codes/java codes"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="pm29.java" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SwappingArrays">
+    <configuration name="ArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList" />
+      <module name="java codes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraylistOneDimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraylistOneDimensional" />
+      <module name="java codes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraylistOneDmensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraylistOneDmensional" />
+      <module name="java codes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultidimensionalArrayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MultidimensionalArrayList" />
+      <module name="java codes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SwappingArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwappingArrays" />
+      <module name="java codes" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SwappingArrays" />
+        <item itemvalue="Application.MultidimensionalArrayList" />
+        <item itemvalue="Application.ArraylistOneDmensional" />
+        <item itemvalue="Application.ArraylistOneDimensional" />
+        <item itemvalue="Application.ArrayList" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e70512b-0812-45e9-b751-05e9d36214d9" name="Changes" comment="" />
+      <created>1661518552270</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661518552270</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java_codes$Arrays2.ic" NAME="Arrays2 Coverage Results" MODIFIED="1664215763313" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
